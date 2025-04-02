@@ -1,26 +1,29 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.2/disk_Windows_i386.zip",
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.3/disk_Windows_i386.zip",
             "bin": [
                 "disk.exe"
             ],
-            "hash": "cc1bef566e76136cd42ce2ba9dfbec934aa4a76d02a2d1d5ceaf1ff1f06b3a5c"
+            "hash": "98157092fa5d04537ec412a139fd34f86869b4e680f83ac3a4384e3b65e5cf4b"
         },
         "64bit": {
-            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.2/disk_Windows_x86_64.zip",
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.3/disk_Windows_x86_64.zip",
             "bin": [
                 "disk.exe"
             ],
-            "hash": "29693ebaaa3d946098a00bdf518c07ecfea1ce8e06643df564bf910b4ffcb130"
+            "hash": "58612b546d0ef0acdd831ee194f29a45c0f184c39aecf8cd8dd7528db23e6335"
         },
         "arm64": {
-            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.2/disk_Windows_arm64.zip",
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.3/disk_Windows_arm64.zip",
             "bin": [
                 "disk.exe"
             ],
-            "hash": "f2ea39009c3dff89c61be69680508395c538b62dd796a0ce15b5d242eb441b32"
+            "hash": "e11cc575a5234bf5d062ea03342e18d37a21064143c4f707f9a91d41c37f5ff2"
         }
-    }
+    },
+    "homepage": "https://github.com/sebastianappelberg/disk",
+    "license": "MIT",
+    "description": "Disk is a CLI tool that helps you identify files that you can remove."
 }

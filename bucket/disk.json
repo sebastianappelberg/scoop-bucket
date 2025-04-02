@@ -1,0 +1,26 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.2/disk_Windows_i386.zip",
+            "bin": [
+                "disk.exe"
+            ],
+            "hash": "cc1bef566e76136cd42ce2ba9dfbec934aa4a76d02a2d1d5ceaf1ff1f06b3a5c"
+        },
+        "64bit": {
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.2/disk_Windows_x86_64.zip",
+            "bin": [
+                "disk.exe"
+            ],
+            "hash": "29693ebaaa3d946098a00bdf518c07ecfea1ce8e06643df564bf910b4ffcb130"
+        },
+        "arm64": {
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.2/disk_Windows_arm64.zip",
+            "bin": [
+                "disk.exe"
+            ],
+            "hash": "f2ea39009c3dff89c61be69680508395c538b62dd796a0ce15b5d242eb441b32"
+        }
+    }
+}

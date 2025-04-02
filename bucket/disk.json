@@ -1,26 +1,26 @@
 {
-    "version": "0.1.4",
+    "version": "0.2.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.4/disk_Windows_i386.zip",
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.2.0/disk_Windows_i386.zip",
             "bin": [
                 "disk.exe"
             ],
-            "hash": "1e03d9d1ff1339946fce71a479cc494766231e379dda3ba36cdcac876133d5b7"
+            "hash": "17c19ef8e75b8caf6dbf890c8bebba259483e7c16bd65b6914318c031a634f8d"
         },
         "64bit": {
-            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.4/disk_Windows_x86_64.zip",
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.2.0/disk_Windows_x86_64.zip",
             "bin": [
                 "disk.exe"
             ],
-            "hash": "ca2bbf75b7b34698e7bfb31e61be6b55d141df0a2e16e6d3d967b5f711798c06"
+            "hash": "01417bbd48f8ed00d54e1bd69cd78454ac5c5c45cadab810dcbcb637090eeeb4"
         },
         "arm64": {
-            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.1.4/disk_Windows_arm64.zip",
+            "url": "https://github.com/sebastianappelberg/disk/releases/download/v0.2.0/disk_Windows_arm64.zip",
             "bin": [
                 "disk.exe"
             ],
-            "hash": "c804ad42d11998687b44d40cc26ffe4d1a5407285960217717c2aa92e4cfdcd5"
+            "hash": "9b06315d421857d771f9287a9952a0f66001e636a0471f5c4e3d7ce06143fed9"
         }
     },
     "homepage": "https://github.com/sebastianappelberg/disk",
